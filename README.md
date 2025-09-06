@@ -1,2 +1,3 @@
 # starter-hub
-Used to learn code bases of GitHub
+# This is a comment
+#Update me with any info
